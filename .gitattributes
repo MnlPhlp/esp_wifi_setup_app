@@ -1,0 +1,3 @@
+flutter_app/** linguist-vendored
+flutter_app/lib/** linguist-vendored=false
+flutter_app/rust/** linguist-vendored=false
