@@ -1,0 +1,5 @@
+/flutter_app/build
+/flutter_app/rust/target
+/common/target
+/esp_server/target
+/esp_server/.embuild
